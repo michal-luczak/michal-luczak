@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🧑 I'm 18 yo
+- 🧑 I'm 19 yo
 - 🎓 I'm Computer Science student at Adam Mickiewicz University in Poznan
 - 📫 email: michalluczak4a@gmail.com
 <!--
