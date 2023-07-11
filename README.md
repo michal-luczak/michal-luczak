@@ -79,6 +79,10 @@
 
 ###
 
-<h6 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: <br>      - get first comercial experience<br>      - learn Front-end<br>      - learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college</h6>
+<h4 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: <br>      - get first comercial experience<br>      - learn Front-end<br>      - learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college</h4>
+
+###
+
+![Snake animation](https://github.com/TAI5ON/TAI5ON/blob/output/github-contribution-grid-snake.svg)
 
 ###
