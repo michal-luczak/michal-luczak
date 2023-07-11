@@ -7,7 +7,7 @@
   <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="150" alt="streak graph"  />
 </div>
 
-###
+##
 
 <h4 align="center">Tech stack I know:</h4>
 
@@ -73,13 +73,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="37" alt="gradle logo"  />
 </div>
 
-###
+##
 
 <img align="right" height="170" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
 
 ###
 
-<h4 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023:
+<h4 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023:<br>
 <ul>
   <li>get first comercial experience</li>  
   <li>learn Front-end</li>
