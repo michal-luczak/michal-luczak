@@ -79,6 +79,6 @@
 
 ###
 
-<h3 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: get first comercial experience, learn Front-end, learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland</h3>
+<h5 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: get first comercial experience, learn Front-end, learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland</h5>
 
 ###
