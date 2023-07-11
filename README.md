@@ -81,7 +81,7 @@
 
 <h4 align="left">
         <ul style="list-style-type: none;">
-            🤔 I’m currently looking for work as Junior Java Developer <br>
+            🤔 I’m currently looking for a job as Junior Java Developer <br>
             📅 My plans on 2023:
             <ul>
                 <li>get first comercial experience</li>  
@@ -90,7 +90,7 @@
             </ul>
             📫 How to reache me: contact@michal-luczak.pl<br>
             🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>
-            ⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college
+            ⚡ Fun fact: I love to riding a motorcycle but I had to sell mine because I was going to college
         </ul>
     </h4>
 
