@@ -79,7 +79,7 @@
 
 ###
 
-<h4 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: <br> 
+<h4 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023:
 <ul>
   <li>get first comercial experience</li>  
   <li>learn Front-end</li>
