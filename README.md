@@ -85,6 +85,8 @@
   <li>learn Front-end</li>
   <li>learn basics of AI</li>
 </ul>📫 How to reache me: contact@michal-luczak.pl<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college</h4>
+
+##
 ![Snake animation](https://github.com/TAI5ON/TAI5ON/blob/output/github-contribution-grid-snake.svg)
 
 ###
