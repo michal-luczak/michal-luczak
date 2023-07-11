@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="150" alt="streak graph"  />
 </div>
 
@@ -79,6 +79,6 @@
 
 ###
 
-<h5 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: get first comercial experience, learn Front-end, learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland</h5>
+<h6 align="left">🤔 I’m currently looking for work as Junior Java Developer <br>📅 My plans on 2023: get first comercial experience, learn Front-end, learn basics of AI<br>📫 How to reache me: contact@michal-luczak.pl<br>⚡ Fun fact: I love riding a motorcycle but I had to sell mine because I was going to college<br>🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland</h6>
 
 ###
