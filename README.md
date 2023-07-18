@@ -95,6 +95,6 @@
     </h4>
 
 ##
-![Snake animation](https://github.com/TAI5ON/TAI5ON/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TAI5ON/TAI5ON/blob/output/github-contribution-grid-snake.gif)
 
 ###
