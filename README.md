@@ -95,6 +95,6 @@
     </h4>
 
 ##
-<img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake.svg"/>
+<img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake-dark.svg"/>
 
 ###
