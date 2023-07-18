@@ -95,6 +95,6 @@
     </h4>
 
 ##
-![snake gif](https://github.com/TAI5ON/TAI5ON/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake.svg"/>
 
 ###
