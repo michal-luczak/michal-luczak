@@ -4,9 +4,9 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="yoda.gif" height="130" />
-  <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="125" alt="stats graph"  />
+  <img src="yoda.gif" height="125" />
+  <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="125" alt="streak graph"  />
 </div>
 
 ##
