@@ -48,7 +48,7 @@
             </ul>
             📫 How to reache me: contact@michal-luczak.pl<br>
             🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>
-            ⚡ Fun fact: I love to riding a motorcycle but I had to sell mine because I was going to college
+            ⚡ Fun fact: I love to riding a motorcycle but I had to sell mine because I was going to college. Plus, I'm a Star Wars fan.
         </ul>
     </h4>
 
