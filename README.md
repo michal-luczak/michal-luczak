@@ -1,11 +1,12 @@
 <img src="200h.gif" />
-<h2 align="left">Hi👋! My name is Michał and I'm an ambitious computer science student🎓, from Poland.</h2>
+<h2 align="left">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="150" alt="streak graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TAI5ON&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="yoda.gif" height="140" />
+  <img src="https://streak-stats.demolab.com?user=TAI5ON&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&date_format=j M[ Y]" height="140" alt="streak graph"  />
 </div>
 
 ##
