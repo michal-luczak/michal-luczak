@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Michał and I'm an ambitious computer science student, from Poland.</h2>
+<img src="200h.gif" />
+<h2 align="left">Hi👋! My name is Michał and I'm an ambitious computer science student🎓, from Poland.</h2>
 
 ###
 
@@ -53,6 +54,8 @@
     </h4>
 
 ##
-<img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake-dark.svg"/>
+<div align="center">
+  <img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ###
