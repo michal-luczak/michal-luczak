@@ -35,7 +35,7 @@
 
 ##
 
-<img align="right" height="160" src="yoda.gif"  />
+<img align="right" height="175" src="yoda.gif"  />
 
 ###
 
