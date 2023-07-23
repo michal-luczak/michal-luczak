@@ -35,7 +35,7 @@
 
 ##
 
-<img align="right" height="170" src="yoda.gif"  />
+<img align="right" height="160" src="yoda.gif"  />
 
 ###
 
@@ -50,7 +50,7 @@
                 <li>learn basics of AI</li>
             </ul>
             📫 How to reache me: contact@michal-luczak.pl<br>
-            🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>
+            🎓 I'm on the second year of Computer Science at UAM in Poznan<br>
             ⚡ Fun fact: I'm a Star Wars fan.
         </ul>
     </h4>
