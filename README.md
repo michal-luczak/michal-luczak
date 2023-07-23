@@ -11,7 +11,7 @@
 
 ##
 
-<h4 align="center">Tech stack I know:</h4>
+<h4 align="center">Tech stack that I know and practice</h4>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="center">Tech stack I'm going to learn:</h4>
+<h4 align="center">Tech stack that I'm going to learn:</h4>
 
 ###
 
