@@ -41,7 +41,8 @@
 
 <h4 align="left">
         <ul style="list-style-type: none;">
-            🤔 I’m currently looking for a job as Junior Java Developer <br>
+            🛠️ I'm currently practicing Spring and learning React<br>
+            🤔 I'm looking for a job as Junior Java Developer<br>
             📅 My plans on 2023:
             <ul>
                 <li>get first comercial experience</li>  
@@ -50,11 +51,12 @@
             </ul>
             📫 How to reache me: contact@michal-luczak.pl<br>
             🎓 I'm on the second year of Computer Science at UAM in Poznan, Poland<br>
-            ⚡ Fun fact: I love to riding a motorcycle but I had to sell mine because I was going to college. Plus, I'm a Star Wars fan.
+            ⚡ Fun fact: I'm a Star Wars fan.
         </ul>
     </h4>
 
 ##
+
 <div align="center">
   <img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/TAI5ON/TAI5ON/output/github-contribution-grid-snake-dark.svg"/>
 </div>
