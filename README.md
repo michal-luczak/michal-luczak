@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,kafka,tensorflow,kubernetes,gradle,go,pytorch,react,ts" />
+    <img src="https://skillicons.dev/icons?i=kotlin,kafka,tensorflow,kubernetes,gradle,go,react,ts,aws" />
   </a>
 </p>
 
