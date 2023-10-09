@@ -1,7 +1,6 @@
 <img src="200h.gif" />
-<div><h2 align="left" style="color:white;">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
 
-###
+<p align="center"><b>Hi👋! I'm Michał, an ambitious computer science student👨‍💻. Below u can see my statistics📈.</b></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
@@ -11,7 +10,7 @@
 
 ##
 
-<h4 align="center">Tech stack that I know and practice</h4>
+<p align="center"><b>Tech stack that I know and practice</b></p>
 
 ###
 
@@ -27,7 +26,7 @@
 
 ###
 
-<h4 align="left">
+<p align="left"><b>
         <ul style="list-style-type: none;">
             🛠️ I'm currently practicing Spring and learning React<br>
             🤔 I'm looking for a job as Junior Java Developer<br>
@@ -41,7 +40,7 @@
             🎓 I'm on the second year of Computer Science at UAM in Poznan<br>
             ⚡ Fun fact: I'm a Star Wars fan.
         </ul>
-    </h4>
+</b></p>
 
 ##
 
