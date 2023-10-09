@@ -1,5 +1,5 @@
 <img src="200h.gif" />
-<h2 align="left" style="color:white;">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
+<div><h2 align="left" style="color:white;">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
 
 ###
 
@@ -17,19 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,redis,mysql,postgres,mongodb,git,linux,html,css,maven,python" />
-  </a>
-</p>
-
-###
-
-<h4 align="center">Tech stack that I'm going to learn:</h4>
-
-###
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,kafka,tensorflow,kubernetes,gradle,go,react,ts,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,redis,mysql,postgres,mongodb,git,linux,html,css,maven,python, gradle, react, aws" />
   </a>
 </p>
 
