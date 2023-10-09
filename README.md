@@ -1,5 +1,5 @@
 <img src="200h.gif" />
-<h2 align="left">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
+<h2 align="left" style="color:white;">Hi👋! I'm Michał, an ambitious computer science student👨‍💻. I live in Poznań, Poland.</h2>
 
 ###
 
