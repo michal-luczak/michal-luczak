@@ -41,11 +41,3 @@
             ⚡ Fun fact: I'm a Star Wars fan.
         </ul>
 </b></p>
-
-##
-
-<div align="center">
-  <img alt="snake eating my contributions" src = "https://raw.githubusercontent.com/michal-luczak/michal-luczak/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-###
