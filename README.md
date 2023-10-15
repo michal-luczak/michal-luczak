@@ -38,6 +38,6 @@
             </ul>
             📫 How to reache me: contact@michal-luczak.pl<br>
             🎓 I'm on the second year of Computer Science at UAM in Poznan<br>
-            ⚡ Fun fact: I'm a Star Wars fan.
+            ⚡ Star Wars fan.
         </ul>
 </b></p>
