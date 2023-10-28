@@ -26,18 +26,13 @@
 
 ###
 
-<p align="left"><b>
-        <ul style="list-style-type: none;">
-            🛠️ I'm currently practicing Spring and learning React<br>
-            🤔 I'm looking for a job as Junior Java Developer<br>
-            📅 My plans on 2023:
-            <ul>
-                <li>get first comercial experience</li>  
-                <li>learn Front-end</li>
-                <li>learn basics of AI</li>
-            </ul>
-            📫 How to reache me: contact@michal-luczak.pl<br>
-            🎓 I'm on the second year of Computer Science at UAM in Poznan<br>
-            ⚡ Star Wars fan.
-        </ul>
-</b></p>
+**🛠️ Practicing Spring and learning React** <br>
+**🧑‍💼 Work as a Junior Java Developer** <br>
+**📅 Plans on 2023:**
+- [X] **Get first comercial experience**
+- [X] **Learn Front-end**
+- [ ] **Learn basics of AI**
+
+**📫 How to reache me: contact@michal-luczak.pl**<br>
+**🎓 Computer Science student 3 semester at UAM in Poznan**<br>
+**⚡ Star Wars fan.**
