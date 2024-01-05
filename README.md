@@ -29,9 +29,15 @@
 **🛠️ Practicing Spring and learning React** <br>
 **🧑‍💼 Work as a Junior Java Developer** <br>
 **📅 Plans on 2023:**
-- [X] **Get first comercial experience**
-- [X] **Learn Front-end**
-- [ ] **Learn basics of AI**
+- [ ] **Learn Gradle**
+- [ ] **Learn Kotlin**
+- [ ] **Learn Python**
+- [ ] **Learn Kafka**
+- [ ] **Learn microservice architecture**
+- [ ] **Create project with**
+- [ ] **Master Java**
+- [ ] **Master Spring & Hibernate**
+- [ ] **Become a FullStack**
 
 **📫 How to reache me: contact@michal-luczak.pl**<br>
 **🎓 Computer Science student 3 semester at UAM in Poznan**<br>
