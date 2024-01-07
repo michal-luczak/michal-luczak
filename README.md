@@ -37,7 +37,6 @@
 - [ ] **Create project with**
 - [ ] **Master Java**
 - [ ] **Master Spring & Hibernate**
-- [ ] **Become a FullStack**
 
 **📫 How to reache me: contact@michal-luczak.pl**<br>
 **🎓 Computer Science student 3 semester at UAM in Poznan**<br>
