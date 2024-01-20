@@ -33,8 +33,7 @@
 - [ ] **Learn Kotlin**
 - [ ] **Learn Python**
 - [ ] **Learn Kafka**
-- [ ] **Learn microservice architecture**
-- [ ] **Create project with**
+- [ ] **Create project with microservice architecture**
 - [ ] **Master Java**
 - [ ] **Master Spring & Hibernate**
 
