@@ -34,8 +34,6 @@
 - [ ] **Learn Python**
 - [ ] **Learn Kafka**
 - [ ] **Create project with microservice architecture**
-- [ ] **Master Java**
-- [ ] **Master Spring & Hibernate**
 
 **📫 How to reache me: contact@michal-luczak.pl**<br>
 **🎓 Computer Science student 3 semester at UAM in Poznan**<br>
