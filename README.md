@@ -36,5 +36,5 @@
 - [ ] **Create project with microservice architecture**
 
 **📫 How to reache me: contact@michal-luczak.pl**<br>
-**🎓 Computer Science student 3 semester at UAM in Poznan**<br>
+**🎓 Computer Science student 4 semester at UAM in Poznan**<br>
 **⚡ Star Wars fan.**
