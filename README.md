@@ -28,8 +28,7 @@
 
 **🛠️ Practicing Spring and learning React** <br>
 **🧑‍💼 Work as a Junior Java Developer** <br>
-**📅 Plans on 2023:**
-- [ ] **Learn Gradle**
+**📅 Goals on 2024:**
 - [ ] **Learn Kotlin**
 - [ ] **Learn Python**
 - [ ] **Learn Kafka**
