@@ -30,7 +30,7 @@
 **🧑‍💼 Work as a Junior Java Developer** <br>
 **📅 Goals on 2024:**
 - [ ] **Learn Kotlin**
-- [ ] **Learn Python**
+- [X] **Learn Python**
 - [ ] **Learn Kafka**
 - [ ] **Create project with microservice architecture**
 
