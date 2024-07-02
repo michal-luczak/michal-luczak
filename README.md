@@ -26,7 +26,7 @@
 
 ###
 
-**🛠️ Working on [microarchitecture procet](https://github.com/Fit-Software)** <br>
+**🛠️ Working on [microarchitecture project](https://github.com/Fit-Software)** <br>
 **🧑‍💼 Work as a Junior Java Developer** <br>
 **📅 Goals on 2024:**
 - [ ] **Learn Kotlin**
