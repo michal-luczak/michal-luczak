@@ -10,13 +10,64 @@
 
 ##
 
-<p align="center"><b>Tech stack that I know and practice</b></p>
-
-###
+<p align="center"><b>What languages and framework do I use</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,redis,mysql,postgres,mongodb,git,linux,html,css,maven,python, gradle, react, aws" />
+      <img src="https://skillicons.dev/icons?i=java,spring" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+      <img src="https://skillicons.dev/icons?i=python,flask" />
+      <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
+
+##
+
+<p align="center"><b>What OS do I use</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+  </a>
+</p>
+
+##
+
+<p align="center"><b>What tools do I use</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,idea,pycharm,webstorm,vscode,postman,notion,docker,git,maven,gradle,vite" />
+  </a>
+</p>
+
+##
+
+<p align="center"><b>What databases do I use</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,firebase,sqlite" />
+  </a>
+</p>
+
+##
+
+<p align="center"><b>Where I can host my stuff</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws" />
+  </a>
+</p>
+
+##
+
+<p align="center"><b>What I want to develop in</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kotlin,lua,notion,prometheus,kubernetes,githubactions,kafka" />
   </a>
 </p>
 
@@ -35,5 +86,5 @@
 - [ ] **Create project with microservice architecture**
 
 **📫 How to reache me: contact@michal-luczak.pl**<br>
-**🎓 Computer Science student 4 semester at UAM in Poznan**<br>
-**⚡ Star Wars fan.**
+**🎓 Computer Science student 5 semester at UAM in Poznan**<br>
+**⚡ Star Wars fan**
