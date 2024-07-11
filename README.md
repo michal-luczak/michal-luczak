@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,idea,pycharm,webstorm,vscode,postman,notion,docker,git,maven,gradle,vite" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,discord,idea,pycharm,webstorm,vscode,postman,notion,docker,git,maven,gradle,vite" />
   </a>
 </p>
 
