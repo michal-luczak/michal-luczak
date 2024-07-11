@@ -10,7 +10,7 @@
 
 ##
 
-<p align="center"><b>What languages and framework do I use</b></p>
+<p align="center"><b>What languages and frameworks do I use</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
