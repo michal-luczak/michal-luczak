@@ -14,10 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-      <img src="https://skillicons.dev/icons?i=python,flask" />
-      <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,python,flask,c,cpp" />
   </a>
 </p>
 
