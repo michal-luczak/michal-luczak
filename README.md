@@ -76,5 +76,5 @@
 
 **🧑‍💼 Work as a Junior Java Developer** <br>
 **📫 How to reache me: contact@michal-luczak.pl**<br>
-**🎓 Computer Science student at UAM in Poznan (5/7)**<br>
+**🎓 Computer Science student at UAM in Poznan (6/7)**<br>
 **⚡ Star Wars fan**
