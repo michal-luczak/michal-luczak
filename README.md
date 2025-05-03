@@ -3,9 +3,9 @@
 <p align="center"><b>Hi👋! I'm Michał, an ambitious computer science student👨‍💻.</b></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&border_radius=20" alt="stats graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-luczak&layout=compact&theme=dark&hide_border=true" height="121"/> -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=michal-luczak&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michal-luczak&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ##
