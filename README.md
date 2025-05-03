@@ -1,6 +1,6 @@
 <img src="200h.gif" />
 
-<p align="center"><b>Hi👋! I'm Michał, an ambitious computer science student👨‍💻.</b></p>
+<h2 align="center"><b>Hi👋! I'm Michał, an ambitious computer science student👨‍💻.</b></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&border_radius=20&card_width=150" alt="stats graph"  />
