@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michal-luczak&layout=compact&theme=dark&hide_border=true" height="121"/> -->
-  <img src="https://streak-stats.demolab.com?user=michal-luczak&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="121" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=michal-luczak&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ##
