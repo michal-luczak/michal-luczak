@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,python,flask,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,grafana,prometheus,html,css,js,ts,react,nextjs,python,flask,c,cpp,go" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,discord,idea,pycharm,webstorm,vscode,postman,notion,docker,git,maven,gradle,vite" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,discord,idea,pycharm,webstorm,vscode,postman,notion,docker,git,maven,gradle,vite,githubactions" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kotlin,lua,notion,prometheus,kubernetes,githubactions,kafka" />
+    <img src="https://skillicons.dev/icons?i=kotlin,kubernetes,kafka" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 ###
 
-**🧑‍💼 Work as a Junior Java Developer** <br>
+**🧑‍💼 Work as a Java Software Engineer** <br>
 **📫 How to reache me: contact@michal-luczak.pl**<br>
 **🎓 Computer Science student at UAM in Poznan (6/7)**<br>
 **⚡ Star Wars fan**
