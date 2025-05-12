@@ -1,10 +1,10 @@
 <img src="200h.gif" />
 
-<h4 align="center">
+<h3 align="center">
   Hi 👋! I'm Michał — a Java Software Engineer and an ambitious computer science student 👨‍💻.<br>
   I enjoy DDD, microservices, and software architecture in general.<br>
   Package-private whenever I can ❤️
-</h4>
+</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michal-luczak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&border_radius=20&card_width=150" alt="stats graph"  />
