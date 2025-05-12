@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,grafana,prometheus,html,css,js,ts,react,nextjs,python,flask,c,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,grafana,prometheus,python,flask,c,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
   </a>
 </p>
 
