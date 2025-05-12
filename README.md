@@ -1,8 +1,8 @@
 <img src="200h.gif" />
 
 <h3 align="center">
-  Hi 👋! I'm Michał — a Java Software Engineer and an ambitious computer science student 👨‍💻.<br>
-  I enjoy DDD, microservices, and software architecture in general.<br>
+  Hi 👋! I'm Michał — a Java Software Engineer and an ambitious computer science student 👨‍💻<br>
+  I enjoy DDD, microservices, and software architecture in general 🖥️<br>
   Package-private whenever I can ❤️
 </h3>
 
