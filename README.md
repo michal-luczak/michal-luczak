@@ -81,7 +81,7 @@
 
 **🧑‍💼 Work as a Java Software Engineer** <br>
 **📫 How to reache me: contact@michal-luczak.pl**<br>
-**🎓 Computer Science student at UAM in Poznan (6/7)**<br>
+**🎓 Computer Science student at UAM in Poznan (7/7)**<br>
 **⚡ Star Wars fan**<br>
 **🔗 Links:**
 
