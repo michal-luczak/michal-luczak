@@ -25,16 +25,6 @@
 
 ##
 
-<p align="center"><b>What OS do I use</b></p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
-  </a>
-</p>
-
-##
-
 <p align="center"><b>What tools do I use</b></p>
 
 <p align="center">
