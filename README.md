@@ -1,9 +1,12 @@
 <img src="200h.gif" />
 
+<h2 align="center">Hi 👋, I'm Michał (Mike)</h2>
+
 <h3 align="center">
-  Hi 👋! I'm Michał — a Java Software Engineer and an ambitious computer science student 👨‍💻<br>
-  I enjoy DDD, microservices, and software architecture in general 🖥️<br>
-  Package-private whenever I can ❤️
+  Software Engineer from Poland<br>
+  Building scalable systems with Java, Kotlin, passion & coffee 🖥️<br>
+  Sharing knowledge on <a href="https://www.youtube.com/@codewithmike-dev">Code with Mike</a><br>
+  Currently building <a href="https://savly.io">Savly</a> 🚀
 </h3>
 
 <div align="center">
