@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,grafana,prometheus,python,flask,c,cpp,go" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,grafana,prometheus,python,c,cpp,go" />
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
   </a>
 </p>
@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,kafka" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,rabbitmq" />
   </a>
 </p>
 
